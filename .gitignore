@@ -1,0 +1,28 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore environment-specific files
+.env
+.env.*
+
+# Ignore virtualenv
+venv/
+
+# Ignore editor-specific files and directories
+.vscode/
+.vim/
+.vimrc
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore generated files and build artifacts
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
