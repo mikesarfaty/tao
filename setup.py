@@ -5,7 +5,7 @@ setup(
     version="0.0.1",
     description="A Terraform object mapper",
     author="Mike Sarfaty",
-    author_email="mike.sarfaty@gmail.com",
+    author_email="mjsarfaty@gmail.com",
     packages=find_packages(),
     install_requires=[],
     classifiers=[
